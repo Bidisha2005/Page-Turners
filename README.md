@@ -12,7 +12,7 @@ User-Friendly Interface: Simple and intuitive design for a seamless user experie
 Feedback-Friendly: Always open to feedback and suggestions to improve the platform.
 <br>
 <h1>Technologies Used 🛠️</h1>
-Frontend: HTML, CSS, JavaScript, React.js,Tailwindcss,v (or any frontend framework you're using)
+Frontend: HTML, CSS, JavaScript, React.js,Tailwindcss
 
 Backend: Node.js, Express.js
 Database: MongoDb
