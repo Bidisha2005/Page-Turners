@@ -1,6 +1,6 @@
 import React from 'react'
 import Home from './home/Home.jsx';
-import Signup from './components/Signup.jsx';
+import Signup from './Components/Signup.jsx';
 import toast, { Toaster } from 'react-hot-toast';
 import {Navigate,Route, Routes} from "react-router-dom"
 import Courses from './courses/Courses.jsx';

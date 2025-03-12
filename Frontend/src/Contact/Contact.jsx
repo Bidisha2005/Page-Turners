@@ -2,8 +2,8 @@ import React from 'react';
 import { useForm } from 'react-hook-form';
 import axios from 'axios';
 import toast, { Toaster } from 'react-hot-toast';
-import Navbar from '../components/Navbar'; // Assuming you have these
-import Footer from '../components/Footer';
+import Navbar from '../Components/Navbar'; // Assuming you have these
+import Footer from '../Components/Footer';
 
 
 
