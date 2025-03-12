@@ -21,7 +21,7 @@ function App() {
 
       
       <Route
-            path="/course"
+            path="/exclusive"
             element={authUser ? <Courses /> : <Navigate to="/signup" />}
           />
       <Route path="/signup" element={<Signup/>}/>
