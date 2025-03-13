@@ -18,7 +18,7 @@ function ContactUs() {
 
   const onSubmit = async (data) => {
     try {
-      const response = await axios.post('http://localhost:3001/api/contact', data); // Replace with your backend URL
+      const response = await axios.post('https://page-turners-final.onrender.com/api/contact', data); // Replace with your backend URL
       if (response.status === 201) {
         toast.success('Message sent successfully!');
         reset(); // Clear the form
