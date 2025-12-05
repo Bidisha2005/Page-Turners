@@ -25,6 +25,8 @@
 - 🎓 **Academic Categories** - Organized by subjects
 - 📱 **Responsive Design** - Access from any device, anywhere
 
+![image alt](https://github.com/Bidisha2005/Page-Turners/blob/main/Screenshot%202025-12-05%20203329.png?raw=true)
+
 ---
 
 ## 🛠 Tech Stack
@@ -183,3 +185,4 @@ Made with ❤️ for engineering students
 *Let's celebrate the joy of learning and the colors of knowledge!* 🎨
 
 </div>
+
