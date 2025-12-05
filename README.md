@@ -27,6 +27,8 @@
 
 ![image alt](https://github.com/Bidisha2005/Page-Turners/blob/main/Screenshot%202025-12-05%20203329.png?raw=true)
 
+![image alt](https://github.com/Bidisha2005/Page-Turners/blob/e57f3a76230f23ced2ebd001bc365b4bcd462b03/Screenshot%202025-12-05%20203356.png)
+
 ---
 
 ## 🛠 Tech Stack
@@ -185,4 +187,5 @@ Made with ❤️ for engineering students
 *Let's celebrate the joy of learning and the colors of knowledge!* 🎨
 
 </div>
+
 
